@@ -1,0 +1,773 @@
+[
+		{
+			"Id": "LuckyBlock",
+			"Iid": "cb510690-7820-11ed-8a2e-05fcc9f3ee0c",
+			"Layer": "Entities",
+			"X": 256,
+			"Y": 144,
+			"Width": 16,
+			"Height": 16,
+			"Color": 12470831,
+			"CustomFields": {
+				"IsMushroom": false
+			}
+		},
+		{
+			"Id": "LuckyBlock",
+			"Iid": "cf5a0bb0-7820-11ed-8a2e-15aa803d1d2b",
+			"Layer": "Entities",
+			"X": 336,
+			"Y": 144,
+			"Width": 16,
+			"Height": 16,
+			"Color": 12470831,
+			"CustomFields": {
+				"IsMushroom": true
+			}
+		},
+		{
+			"Id": "LuckyBlock",
+			"Iid": "d70c42b0-7820-11ed-8a2e-f32d4bb2c5ef",
+			"Layer": "Entities",
+			"X": 368,
+			"Y": 144,
+			"Width": 16,
+			"Height": 16,
+			"Color": 12470831,
+			"CustomFields": {
+				"IsMushroom": false
+			}
+		},
+		{
+			"Id": "LuckyBlock",
+			"Iid": "d78df5d0-7820-11ed-8a2e-c1b9f4390555",
+			"Layer": "Entities",
+			"X": 352,
+			"Y": 80,
+			"Width": 16,
+			"Height": 16,
+			"Color": 12470831,
+			"CustomFields": {
+				"IsMushroom": false
+			}
+		},
+		{
+			"Id": "LuckyBlock",
+			"Iid": "b4d7d1a0-7820-11ed-b074-fdddc2e95597",
+			"Layer": "Entities",
+			"X": 1248,
+			"Y": 144,
+			"Width": 16,
+			"Height": 16,
+			"Color": 12470831,
+			"CustomFields": {
+				"IsMushroom": true
+			}
+		},
+		{
+			"Id": "LuckyBlock",
+			"Iid": "b615a8d0-7820-11ed-b074-b7c93f8b21b4",
+			"Layer": "Entities",
+			"X": 1504,
+			"Y": 80,
+			"Width": 16,
+			"Height": 16,
+			"Color": 12470831,
+			"CustomFields": {
+				"IsMushroom": false
+			}
+		},
+		{
+			"Id": "LuckyBlock",
+			"Iid": "b6fd22a0-7820-11ed-b074-0d074faf96c4",
+			"Layer": "Entities",
+			"X": 1696,
+			"Y": 144,
+			"Width": 16,
+			"Height": 16,
+			"Color": 12470831,
+			"CustomFields": {
+				"IsMushroom": false
+			}
+		},
+		{
+			"Id": "LuckyBlock",
+			"Iid": "b76f6c70-7820-11ed-b074-3f60054e1383",
+			"Layer": "Entities",
+			"X": 1744,
+			"Y": 144,
+			"Width": 16,
+			"Height": 16,
+			"Color": 12470831,
+			"CustomFields": {
+				"IsMushroom": false
+			}
+		},
+		{
+			"Id": "LuckyBlock",
+			"Iid": "b7cb2100-7820-11ed-b074-074be1164821",
+			"Layer": "Entities",
+			"X": 1792,
+			"Y": 144,
+			"Width": 16,
+			"Height": 16,
+			"Color": 12470831,
+			"CustomFields": {
+				"IsMushroom": false
+			}
+		},
+		{
+			"Id": "LuckyBlock",
+			"Iid": "b83331a0-7820-11ed-b074-6d615c9c32e4",
+			"Layer": "Entities",
+			"X": 1744,
+			"Y": 80,
+			"Width": 16,
+			"Height": 16,
+			"Color": 12470831,
+			"CustomFields": {
+				"IsMushroom": true
+			}
+		},
+		{
+			"Id": "LuckyBlock",
+			"Iid": "b9883a50-7820-11ed-b074-23aee3caa518",
+			"Layer": "Entities",
+			"X": 2064,
+			"Y": 80,
+			"Width": 16,
+			"Height": 16,
+			"Color": 12470831,
+			"CustomFields": {
+				"IsMushroom": false
+			}
+		},
+		{
+			"Id": "LuckyBlock",
+			"Iid": "b9d6f690-7820-11ed-b074-25c99a7e53ff",
+			"Layer": "Entities",
+			"X": 2080,
+			"Y": 80,
+			"Width": 16,
+			"Height": 16,
+			"Color": 12470831,
+			"CustomFields": {
+				"IsMushroom": false
+			}
+		},
+		{
+			"Id": "LuckyBlock",
+			"Iid": "bbd389e0-7820-11ed-b074-df1a8caff000",
+			"Layer": "Entities",
+			"X": 2720,
+			"Y": 144,
+			"Width": 16,
+			"Height": 16,
+			"Color": 12470831,
+			"CustomFields": {
+				"IsMushroom": false
+			}
+		},
+		{
+			"Id": "Brick",
+			"Iid": "d9925150-7820-11ed-8a2e-39bdd011619a",
+			"Layer": "Entities",
+			"X": 320,
+			"Y": 144,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14120515,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Brick",
+			"Iid": "da959080-7820-11ed-8a2e-937ad759abb7",
+			"Layer": "Entities",
+			"X": 384,
+			"Y": 144,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14120515,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Brick",
+			"Iid": "9c957de0-7820-11ed-b074-afcb51e554ad",
+			"Layer": "Entities",
+			"X": 1232,
+			"Y": 144,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14120515,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Brick",
+			"Iid": "9cf5ed60-7820-11ed-b074-2d8c1f535a7b",
+			"Layer": "Entities",
+			"X": 1264,
+			"Y": 144,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14120515,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Brick",
+			"Iid": "9d8c12e0-7820-11ed-b074-639dde103adb",
+			"Layer": "Entities",
+			"X": 1296,
+			"Y": 80,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14120515,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Brick",
+			"Iid": "9ea8cd80-7820-11ed-b074-1f0e4956c4b6",
+			"Layer": "Entities",
+			"X": 1280,
+			"Y": 80,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14120515,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Brick",
+			"Iid": "9f0e6d20-7820-11ed-b074-f5ddaae3d9d1",
+			"Layer": "Entities",
+			"X": 1312,
+			"Y": 80,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14120515,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Brick",
+			"Iid": "9f5d7780-7820-11ed-b074-7535a56d970e",
+			"Layer": "Entities",
+			"X": 1328,
+			"Y": 80,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14120515,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Brick",
+			"Iid": "9faecbd0-7820-11ed-b074-6dab0f3bef5f",
+			"Layer": "Entities",
+			"X": 1344,
+			"Y": 80,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14120515,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Brick",
+			"Iid": "a002b830-7820-11ed-b074-d14574c641ca",
+			"Layer": "Entities",
+			"X": 1360,
+			"Y": 80,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14120515,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Brick",
+			"Iid": "a04c9270-7820-11ed-b074-f9dd41f5e85f",
+			"Layer": "Entities",
+			"X": 1376,
+			"Y": 80,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14120515,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Brick",
+			"Iid": "a0961e90-7820-11ed-b074-d74d0047e196",
+			"Layer": "Entities",
+			"X": 1392,
+			"Y": 80,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14120515,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Brick",
+			"Iid": "a117f8c0-7820-11ed-b074-1105a3321c8a",
+			"Layer": "Entities",
+			"X": 1456,
+			"Y": 80,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14120515,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Brick",
+			"Iid": "a1644400-7820-11ed-b074-b77d2a7ce611",
+			"Layer": "Entities",
+			"X": 1472,
+			"Y": 80,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14120515,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Brick",
+			"Iid": "a1bfaa70-7820-11ed-b074-af16b3228bd1",
+			"Layer": "Entities",
+			"X": 1488,
+			"Y": 80,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14120515,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Brick",
+			"Iid": "a23eec90-7820-11ed-b074-97263a81f98e",
+			"Layer": "Entities",
+			"X": 1504,
+			"Y": 144,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14120515,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Brick",
+			"Iid": "a3a09f70-7820-11ed-b074-6d870a145afe",
+			"Layer": "Entities",
+			"X": 1600,
+			"Y": 144,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14120515,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Brick",
+			"Iid": "a3f994e0-7820-11ed-b074-d5b8897223b4",
+			"Layer": "Entities",
+			"X": 1616,
+			"Y": 144,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14120515,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Brick",
+			"Iid": "a567a3d0-7820-11ed-b074-ef909e2ba98b",
+			"Layer": "Entities",
+			"X": 1888,
+			"Y": 144,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14120515,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Brick",
+			"Iid": "a6333130-7820-11ed-b074-551398327cb1",
+			"Layer": "Entities",
+			"X": 1936,
+			"Y": 80,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14120515,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Brick",
+			"Iid": "a6ba1470-7820-11ed-b074-711c7b85ac2d",
+			"Layer": "Entities",
+			"X": 1952,
+			"Y": 80,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14120515,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Brick",
+			"Iid": "a708a9a0-7820-11ed-b074-dda1c882e9ba",
+			"Layer": "Entities",
+			"X": 1968,
+			"Y": 80,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14120515,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Brick",
+			"Iid": "a8167020-7820-11ed-b074-e965d7c53458",
+			"Layer": "Entities",
+			"X": 2064,
+			"Y": 144,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14120515,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Brick",
+			"Iid": "a88dc300-7820-11ed-b074-6bc924ca4fb5",
+			"Layer": "Entities",
+			"X": 2080,
+			"Y": 144,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14120515,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Brick",
+			"Iid": "a907d500-7820-11ed-b074-effefa287466",
+			"Layer": "Entities",
+			"X": 2048,
+			"Y": 80,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14120515,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Brick",
+			"Iid": "a965fa90-7820-11ed-b074-afac11795202",
+			"Layer": "Entities",
+			"X": 2096,
+			"Y": 80,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14120515,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Brick",
+			"Iid": "ac267a20-7820-11ed-b074-d3c6bec5ffad",
+			"Layer": "Entities",
+			"X": 2688,
+			"Y": 144,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14120515,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Brick",
+			"Iid": "ac8478a0-7820-11ed-b074-2915d98b680a",
+			"Layer": "Entities",
+			"X": 2704,
+			"Y": 144,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14120515,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Brick",
+			"Iid": "acdb2420-7820-11ed-b074-abd0dac22807",
+			"Layer": "Entities",
+			"X": 2736,
+			"Y": 144,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14120515,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Brick",
+			"Iid": "23167880-7820-11ed-bb72-47ebfa09b40e",
+			"Layer": "Entities",
+			"X": 352,
+			"Y": 144,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14120515,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Pipe",
+			"Iid": "6f572af0-7820-11ed-b074-1596a319345b",
+			"Layer": "Entities",
+			"X": 912,
+			"Y": 144,
+			"Width": 32,
+			"Height": 16,
+			"Color": 589569,
+			"CustomFields": {
+				"Id": "A"
+			}
+		},
+		{
+			"Id": "Pipe",
+			"Iid": "c80a88e0-7820-11ed-b074-3d1d47aa0a39",
+			"Layer": "Entities",
+			"X": 800,
+			"Y": 272,
+			"Width": 16,
+			"Height": 16,
+			"Color": 589569,
+			"CustomFields": {
+				"Id": "A"
+			}
+		},
+		{
+			"Id": "Pipe",
+			"Iid": "eb88fdb0-7820-11ed-b074-bdd46c7d668d",
+			"Layer": "Entities",
+			"X": 976,
+			"Y": 416,
+			"Width": 16,
+			"Height": 32,
+			"Color": 589569,
+			"CustomFields": {
+				"Id": "B"
+			}
+		},
+		{
+			"Id": "Pipe",
+			"Iid": "fb360d70-7820-11ed-b074-3f4ab384251e",
+			"Layer": "Entities",
+			"X": 2608,
+			"Y": 176,
+			"Width": 32,
+			"Height": 16,
+			"Color": 589569,
+			"CustomFields": {
+				"Id": "B"
+			}
+		},
+		{
+			"Id": "Finish",
+			"Iid": "2172def0-7820-11ed-b074-69c44e02b481",
+			"Layer": "Entities",
+			"X": 3152,
+			"Y": 48,
+			"Width": 16,
+			"Height": 144,
+			"Color": 15389866,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Coin",
+			"Iid": "21eb89e0-7820-11ed-854f-6dda33a44e19",
+			"Layer": "Entities",
+			"X": 856,
+			"Y": 328,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14984818,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Coin",
+			"Iid": "22445840-7820-11ed-854f-9df8a9c62591",
+			"Layer": "Entities",
+			"X": 872,
+			"Y": 328,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14984818,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Coin",
+			"Iid": "22933b90-7820-11ed-854f-39bd21811a91",
+			"Layer": "Entities",
+			"X": 888,
+			"Y": 328,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14984818,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Coin",
+			"Iid": "22e971e0-7820-11ed-854f-1f7113fe06df",
+			"Layer": "Entities",
+			"X": 904,
+			"Y": 328,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14984818,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Coin",
+			"Iid": "23334c20-7820-11ed-854f-b33ccae3599f",
+			"Layer": "Entities",
+			"X": 920,
+			"Y": 328,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14984818,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Coin",
+			"Iid": "239653b0-7820-11ed-854f-579035999eb0",
+			"Layer": "Entities",
+			"X": 936,
+			"Y": 360,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14984818,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Coin",
+			"Iid": "23ea6720-7820-11ed-854f-b5d994df24ae",
+			"Layer": "Entities",
+			"X": 920,
+			"Y": 360,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14984818,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Coin",
+			"Iid": "243be280-7820-11ed-854f-655dec2db206",
+			"Layer": "Entities",
+			"X": 904,
+			"Y": 360,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14984818,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Coin",
+			"Iid": "24a41a30-7820-11ed-854f-cd295c332b71",
+			"Layer": "Entities",
+			"X": 888,
+			"Y": 360,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14984818,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Coin",
+			"Iid": "2516b220-7820-11ed-854f-f94c5a5aecb4",
+			"Layer": "Entities",
+			"X": 872,
+			"Y": 360,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14984818,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Coin",
+			"Iid": "25721890-7820-11ed-854f-b7f8a3adcdf1",
+			"Layer": "Entities",
+			"X": 856,
+			"Y": 360,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14984818,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Coin",
+			"Iid": "25be3cc0-7820-11ed-854f-bb95c5af2087",
+			"Layer": "Entities",
+			"X": 840,
+			"Y": 360,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14984818,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Coin",
+			"Iid": "261c8960-7820-11ed-854f-8f1dd0e0c455",
+			"Layer": "Entities",
+			"X": 840,
+			"Y": 392,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14984818,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Coin",
+			"Iid": "267075c0-7820-11ed-854f-579d096d115f",
+			"Layer": "Entities",
+			"X": 856,
+			"Y": 392,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14984818,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Coin",
+			"Iid": "26ba5000-7820-11ed-854f-e3fed1c55c4f",
+			"Layer": "Entities",
+			"X": 872,
+			"Y": 392,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14984818,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Coin",
+			"Iid": "271abf80-7820-11ed-854f-997653bcf8bb",
+			"Layer": "Entities",
+			"X": 888,
+			"Y": 392,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14984818,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Coin",
+			"Iid": "276499c0-7820-11ed-854f-4f61075fa7ef",
+			"Layer": "Entities",
+			"X": 904,
+			"Y": 392,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14984818,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Coin",
+			"Iid": "27b35600-7820-11ed-854f-2b0bcc0c033a",
+			"Layer": "Entities",
+			"X": 920,
+			"Y": 392,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14984818,
+			"CustomFields" : {}
+		},
+		{
+			"Id": "Coin",
+			"Iid": "28074260-7820-11ed-854f-799d520d72fb",
+			"Layer": "Entities",
+			"X": 936,
+			"Y": 392,
+			"Width": 16,
+			"Height": 16,
+			"Color": 14984818,
+			"CustomFields" : {}
+		}
+]
