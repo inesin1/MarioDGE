@@ -15,9 +15,11 @@ namespace MarioDGE.GameScreens
 {
     public class Level_1 : GameScreen
     {
-        public Level_1(DoubleGameEngine.Game game) : base(game)
+        public Level_1(DoubleGameEngine.Core.Game game) : base(game)
         {
-            GameObjects["Mario"] = new Mario(this) { Position = Vector2.Zero * 64};
+            Physics.Active = true;
+
+            GameObjects["Mario"] = new Mario(this) { Position = Vector2.One * 64};
         }
 
         public override void Initialize()
@@ -27,6 +29,11 @@ namespace MarioDGE.GameScreens
             base.Initialize();
 
             InitializeGameObjects();
+        }
+
+        public override void Update(GameTime gameTime)
+        {
+            base.Update(gameTime);
         }
 
         /// <summary>

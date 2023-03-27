@@ -6,7 +6,7 @@ using MonoGame.Extended.Screens;
 
 namespace MarioDGE
 {
-    public class MarioGame : DoubleGameEngine.Game
+    public class MarioGame : DoubleGameEngine.Core.Game
     {
         public MarioGame()
         {

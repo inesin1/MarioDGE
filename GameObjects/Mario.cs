@@ -14,9 +14,6 @@ namespace MarioDGE.GameObjects
     public class Mario : GameObject
     {
         public MarioType Type { get; set; }                 // Тип Марио
-        public float Speed { get; set; }                    // Скорость
-
-        private Vector2 _velocity = new Vector2();
 
         public Mario(GameScreen context) : base(context)
         {
@@ -35,7 +32,6 @@ namespace MarioDGE.GameObjects
         public override void Update(float elapsedTime)
         {
             Move(elapsedTime);
-            Collision();
 
             base.Update(elapsedTime);
         }
@@ -45,17 +41,10 @@ namespace MarioDGE.GameObjects
         /// </summary>
         /// <param name="elapsedTime">Прошедшее время</param>
         public void Move(float elapsedTime) {
-            _velocity.X = (Convert.ToInt32(Keyboard.IsKeyDown(_input["Right"])) - Convert.ToInt32(Keyboard.IsKeyDown(_input["Left"]))) * Speed;
-            _velocity.Y += Variables.GRAVITY;
+            Velocity = new Vector2((Convert.ToInt32(Keyboard.IsKeyDown(_input["Right"])) - Convert.ToInt32(Keyboard.IsKeyDown(_input["Left"]))) * Speed, Velocity.Y);
 
-            Position += _velocity * elapsedTime;
-
-            //Context.Camera.Move(Vector2.UnitX * elapsedTime * 100);
-        }
-
-        public void Collision() {
-            if (Position.Y > Variables.WINDOW_HEIGHT)
-                Position *= Vector2.UnitX;
+            if (Position.Y >= Variables.WINDOW_HEIGHT)
+                Position = new Vector2(Position.X, 0);
         }
 
         public enum MarioType

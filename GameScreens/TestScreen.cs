@@ -11,7 +11,7 @@ namespace MarioDGE.GameScreens
 {
     public class TestScreen : GameScreen
     {
-        public TestScreen(DoubleGameEngine.Game game) : base(game)
+        public TestScreen(DoubleGameEngine.Core.Game game) : base(game)
         {
             
         }
