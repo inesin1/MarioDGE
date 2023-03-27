@@ -18,7 +18,10 @@ namespace MarioDGE.GameObjects
 
         public override void Init()
         {
-            
+            base.Init();
+
+            IsFixed = true;
+            Scale = new Microsoft.Xna.Framework.Vector2(0.5f, 0.5f);
         }
     }
 }
