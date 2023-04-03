@@ -43,6 +43,14 @@ namespace MarioDGE.GameObjects
         public void Move(float elapsedTime) {
             Velocity = new Vector2((Convert.ToInt32(Keyboard.IsKeyDown(_input["Right"])) - Convert.ToInt32(Keyboard.IsKeyDown(_input["Left"]))) * Speed, Velocity.Y);
 
+            if (Keyboard.IsKeyDown(_input["Jump"]) &&
+                IsGrounded == true
+                ) 
+            {
+                Console.WriteLine("Прыжок");
+                Velocity = new Vector2(Velocity.X, Velocity.Y - 1000);
+            }
+
             if (Position.Y >= Variables.WINDOW_HEIGHT)
                 Position = new Vector2(Position.X, 0);
         }
